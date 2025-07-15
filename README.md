@@ -17,6 +17,7 @@
 - **DRD2** (Dopamine D2 receptor)
 - **MAOA** (Monoamine oxidase A)
 - **SERT** (Serotonin transporter)
+
 При необходимости есть возможность легко изменить мишени в **TARGETS_CONFIG**
 
 ## Требования к системе
